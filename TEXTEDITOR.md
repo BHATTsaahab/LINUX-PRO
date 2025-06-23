@@ -1,13 +1,6 @@
----
-
 text editor 
 
-Popular text editors:
 
-- **CLI-based**: `nano`, `vim`, `vi`
-- **GUI-based**: `gedit`, `kate`, `pluma`
-
----
 
 # 📂 **`cat` Command in Linux (Text Viewing Tool)**
 
